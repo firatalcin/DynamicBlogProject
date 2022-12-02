@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hDEHrqGMO9OchCnbb25yt+WzxlA6QCh7b4zGih67rIYqtgy/oeSX7x1hhEDDJyr+tcetMkf8eVO8/BpfXefwRA==",
+  "dgSpecHash": "Nq20lvtip93l95MvtsWBRgHF1+CugpW/YDQWg5YNbZAyrIOyGcuhwtd6HAb8FL39Ywr5zpbOdA44jpDD5gYxew==",
   "success": true,
-  "projectFilePath": "D:\\Software\\SoftwareProject\\NetProjects\\BlogProject\\BlogProjectApp.Entities\\BlogProjectApp.Entities.csproj",
+  "projectFilePath": "D:\\Software\\GithubProject\\DynamicBlogProject-v2\\BlogProject\\BlogProjectApp.Entities\\BlogProjectApp.Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

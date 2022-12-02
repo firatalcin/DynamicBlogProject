@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Software\\SoftwareProject\\NetProjects\\BlogProject\\BlogProjectApp.Entities\\BlogProjectApp.Entities.csproj",
+      "projectUniqueName": "D:\\Software\\GithubProject\\DynamicBlogProject-v2\\BlogProject\\BlogProjectApp.Entities\\BlogProjectApp.Entities.csproj",
       "projectName": "BlogProjectApp.Entities",
-      "projectPath": "D:\\Software\\SoftwareProject\\NetProjects\\BlogProject\\BlogProjectApp.Entities\\BlogProjectApp.Entities.csproj",
+      "projectPath": "D:\\Software\\GithubProject\\DynamicBlogProject-v2\\BlogProject\\BlogProjectApp.Entities\\BlogProjectApp.Entities.csproj",
       "packagesPath": "C:\\Users\\firatalcin\\.nuget\\packages\\",
-      "outputPath": "D:\\Software\\SoftwareProject\\NetProjects\\BlogProject\\BlogProjectApp.Entities\\obj\\",
+      "outputPath": "D:\\Software\\GithubProject\\DynamicBlogProject-v2\\BlogProject\\BlogProjectApp.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\firatalcin\\AppData\\Roaming\\NuGet\\NuGet.Config",
