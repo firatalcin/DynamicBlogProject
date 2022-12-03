@@ -1,0 +1,12 @@
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Entities\bin\Debug\net6.0\BlogProjectApp.Entities.deps.json
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Entities\bin\Debug\net6.0\BlogProjectApp.Entities.dll
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Entities\bin\Debug\net6.0\BlogProjectApp.Entities.pdb
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Entities\obj\Debug\net6.0\BlogProjectApp.Entities.csproj.AssemblyReference.cache
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Entities\obj\Debug\net6.0\BlogProjectApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Entities\obj\Debug\net6.0\BlogProjectApp.Entities.AssemblyInfoInputs.cache
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Entities\obj\Debug\net6.0\BlogProjectApp.Entities.AssemblyInfo.cs
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Entities\obj\Debug\net6.0\BlogProjectApp.Entities.csproj.CoreCompileInputs.cache
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Entities\obj\Debug\net6.0\BlogProjectApp.Entities.dll
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Entities\obj\Debug\net6.0\refint\BlogProjectApp.Entities.dll
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Entities\obj\Debug\net6.0\BlogProjectApp.Entities.pdb
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Entities\obj\Debug\net6.0\ref\BlogProjectApp.Entities.dll

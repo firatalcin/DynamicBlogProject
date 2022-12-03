@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BlogProjectApp.Entities.Concrete
 {
-    public class Writer : IEntity
+    public class Writer 
     {
         public int Id { get; set; }
         public string Name { get; set; }

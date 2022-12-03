@@ -1,0 +1,12 @@
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Core\bin\Debug\net6.0\BlogProjectApp.Core.deps.json
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Core\bin\Debug\net6.0\BlogProjectApp.Core.dll
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Core\bin\Debug\net6.0\BlogProjectApp.Core.pdb
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Core\obj\Debug\net6.0\BlogProjectApp.Core.csproj.AssemblyReference.cache
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Core\obj\Debug\net6.0\BlogProjectApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Core\obj\Debug\net6.0\BlogProjectApp.Core.AssemblyInfoInputs.cache
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Core\obj\Debug\net6.0\BlogProjectApp.Core.AssemblyInfo.cs
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Core\obj\Debug\net6.0\BlogProjectApp.Core.csproj.CoreCompileInputs.cache
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Core\obj\Debug\net6.0\BlogProjectApp.Core.dll
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Core\obj\Debug\net6.0\refint\BlogProjectApp.Core.dll
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Core\obj\Debug\net6.0\BlogProjectApp.Core.pdb
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Core\obj\Debug\net6.0\ref\BlogProjectApp.Core.dll

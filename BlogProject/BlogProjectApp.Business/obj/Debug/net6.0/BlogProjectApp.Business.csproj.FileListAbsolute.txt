@@ -1,0 +1,17 @@
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Business\bin\Debug\net6.0\BlogProjectApp.Business.deps.json
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Business\bin\Debug\net6.0\BlogProjectApp.Business.dll
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Business\bin\Debug\net6.0\BlogProjectApp.Business.pdb
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Business\bin\Debug\net6.0\BlogProjectApp.DataAccess.dll
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Business\bin\Debug\net6.0\BlogProjectApp.Entities.dll
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Business\bin\Debug\net6.0\BlogProjectApp.DataAccess.pdb
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Business\bin\Debug\net6.0\BlogProjectApp.Entities.pdb
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Business\obj\Debug\net6.0\BlogProjectApp.Business.csproj.AssemblyReference.cache
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Business\obj\Debug\net6.0\BlogProjectApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Business\obj\Debug\net6.0\BlogProjectApp.Business.AssemblyInfoInputs.cache
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Business\obj\Debug\net6.0\BlogProjectApp.Business.AssemblyInfo.cs
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Business\obj\Debug\net6.0\BlogProjectApp.Business.csproj.CoreCompileInputs.cache
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Business\obj\Debug\net6.0\BlogProjectApp.Business.csproj.CopyComplete
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Business\obj\Debug\net6.0\BlogProjectApp.Business.dll
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Business\obj\Debug\net6.0\refint\BlogProjectApp.Business.dll
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Business\obj\Debug\net6.0\BlogProjectApp.Business.pdb
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.Business\obj\Debug\net6.0\ref\BlogProjectApp.Business.dll

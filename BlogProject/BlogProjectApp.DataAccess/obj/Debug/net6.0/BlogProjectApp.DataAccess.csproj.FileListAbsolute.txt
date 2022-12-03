@@ -1,0 +1,17 @@
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.DataAccess\bin\Debug\net6.0\BlogProjectApp.DataAccess.deps.json
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.DataAccess\bin\Debug\net6.0\BlogProjectApp.DataAccess.runtimeconfig.json
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.DataAccess\bin\Debug\net6.0\BlogProjectApp.DataAccess.dll
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.DataAccess\bin\Debug\net6.0\BlogProjectApp.DataAccess.pdb
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.DataAccess\bin\Debug\net6.0\BlogProjectApp.Entities.dll
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.DataAccess\bin\Debug\net6.0\BlogProjectApp.Entities.pdb
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.DataAccess\obj\Debug\net6.0\BlogProjectApp.DataAccess.csproj.AssemblyReference.cache
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.DataAccess\obj\Debug\net6.0\BlogProjectApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.DataAccess\obj\Debug\net6.0\BlogProjectApp.DataAccess.AssemblyInfoInputs.cache
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.DataAccess\obj\Debug\net6.0\BlogProjectApp.DataAccess.AssemblyInfo.cs
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.DataAccess\obj\Debug\net6.0\BlogProjectApp.DataAccess.csproj.CoreCompileInputs.cache
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.DataAccess\obj\Debug\net6.0\BlogProjectApp.DataAccess.csproj.CopyComplete
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.DataAccess\obj\Debug\net6.0\BlogProjectApp.DataAccess.dll
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.DataAccess\obj\Debug\net6.0\refint\BlogProjectApp.DataAccess.dll
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.DataAccess\obj\Debug\net6.0\BlogProjectApp.DataAccess.pdb
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.DataAccess\obj\Debug\net6.0\BlogProjectApp.DataAccess.genruntimeconfig.cache
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.DataAccess\obj\Debug\net6.0\ref\BlogProjectApp.DataAccess.dll
