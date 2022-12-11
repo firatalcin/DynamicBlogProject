@@ -13,7 +13,6 @@ namespace BlogProjectApp.Business.Concrete
             _categoryDal = categoryDal;
         }
 
-
         public void Add(Category entity)
         {
             _categoryDal.Add(entity);

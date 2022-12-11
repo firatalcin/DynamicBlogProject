@@ -1,4 +1,24 @@
+using BlogProjectApp.Business.Abstract;
+using BlogProjectApp.Business.Concrete;
+using BlogProjectApp.DataAccess.Abstract;
+using BlogProjectApp.DataAccess.Concrete.EntityFramework;
+
 var builder = WebApplication.CreateBuilder(args);
+
+
+builder.Services.AddScoped<IAboutDal, EfAboutDal>();
+builder.Services.AddScoped<IBlogDal, EfBlogDal>();
+builder.Services.AddScoped<ICategoryDal, EfCategoryDal>();
+builder.Services.AddScoped<ICommentDal, EfCommentDal>();
+builder.Services.AddScoped<IContactDal, EfContactDal>();
+builder.Services.AddScoped<IWriterDal, EfWriterDal>();
+
+builder.Services.AddScoped<IAboutService, AboutManager>();
+builder.Services.AddScoped<IBlogService, BlogManager>();
+builder.Services.AddScoped<ICategoryService, CategoryManager>();
+builder.Services.AddScoped<ICommentService, CommentManager>();
+builder.Services.AddScoped<IContactService, ContactManager>();
+builder.Services.AddScoped<IWriterService, WriterManager>();
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
