@@ -10,5 +10,6 @@ namespace BlogProjectApp.DataAccess.Abstract
 {
     public interface IBlogDal : IRepositoryBase<Blog>
     {
+        List<Blog> GetListWithCategory();
     }
 }
