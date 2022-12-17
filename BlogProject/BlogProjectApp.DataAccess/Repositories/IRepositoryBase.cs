@@ -9,11 +9,11 @@ namespace BlogProjectApp.DataAccess.Repositories
 {
     public interface IRepositoryBase<T> where T : class
     {
-        List<T> GetAll();
+        List<T> GetListAll();
         T GetById(int id);
         void Add(T entity);
         void Delete(T entity);
         void Update(T entity);
-        T GetListEx(Expression<Func<T, bool>> filter);
+        List<T> GetListAll(Expression<Func<T, bool>> filter);
     }
 }

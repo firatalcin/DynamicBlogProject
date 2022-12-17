@@ -30,7 +30,7 @@ namespace BlogProjectApp.Business.Concrete
 
         public List<About> GetList()
         {
-            return _aboutDal.GetAll();
+            return _aboutDal.GetListAll();
         }
 
         public void Delete(About entity)

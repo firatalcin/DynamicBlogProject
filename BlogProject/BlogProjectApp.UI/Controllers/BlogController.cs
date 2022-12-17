@@ -21,8 +21,8 @@ namespace BlogProjectApp.UI.Controllers
 
         public IActionResult BlogDetail(int id)
         {
-
-            return View();
+            var list = _blogService.GetBlogById(id);
+            return View(list);
         }
     }
 }

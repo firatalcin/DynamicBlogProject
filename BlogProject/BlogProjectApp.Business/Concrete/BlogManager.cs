@@ -36,7 +36,7 @@ namespace BlogProjectApp.Business.Concrete
 
         public List<Blog> GetList()
         {
-            return _blogDal.GetAll();
+            return _blogDal.GetListAll();
         }
 
         public void Delete(Blog entity)
@@ -49,9 +49,9 @@ namespace BlogProjectApp.Business.Concrete
             _blogDal.Update(entity);
         }
 
-        public Blog GetBlogById(int id)
+        public List<Blog> GetBlogById(int id)
         {
-            return _blogDal.GetListEx(x => x.Id == id);
+            return _blogDal.GetListAll(x => x.Id == id);
         }
     }
 }

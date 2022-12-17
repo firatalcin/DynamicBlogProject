@@ -25,7 +25,7 @@ namespace BlogProjectApp.Business.Concrete
 
         public List<Contact> GetList()
         {
-            return _contactDal.GetAll();
+            return _contactDal.GetListAll();
         }
 
         public void Delete(Contact entity)

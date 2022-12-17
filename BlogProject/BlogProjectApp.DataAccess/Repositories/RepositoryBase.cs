@@ -28,7 +28,7 @@ namespace BlogProjectApp.DataAccess.Repositories
             }
         }
 
-        public List<T> GetAll()
+        public List<T> GetListAll()
         {
             using (ProjectDbContext db = new ProjectDbContext())
             {
@@ -44,11 +44,11 @@ namespace BlogProjectApp.DataAccess.Repositories
             }
         }
 
-        public T GetListEx(Expression<Func<T, bool>> filter)
+        public List<T> GetListAll(Expression<Func<T, bool>> filter)
         {
             using (ProjectDbContext db = new ProjectDbContext())
             {
-                return db.Set<T>().Where(filter).FirstOrDefault();
+                return db.Set<T>().Where(filter).ToList();
             }
         }
 

@@ -25,7 +25,7 @@ namespace BlogProjectApp.Business.Concrete
 
         public List<Category> GetList()
         {
-            return _categoryDal.GetAll();
+            return _categoryDal.GetListAll();
         }
 
         public void Delete(Category entity)

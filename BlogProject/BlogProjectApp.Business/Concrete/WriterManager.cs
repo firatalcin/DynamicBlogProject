@@ -25,7 +25,7 @@ namespace BlogProjectApp.Business.Concrete
 
         public List<Writer> GetList()
         {
-            return _writerDal.GetAll();
+            return _writerDal.GetListAll();
         }
 
         public void Delete(Writer entity)

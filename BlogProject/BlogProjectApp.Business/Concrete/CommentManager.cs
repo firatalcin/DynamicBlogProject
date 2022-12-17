@@ -25,7 +25,7 @@ namespace BlogProjectApp.Business.Concrete
 
         public List<Comment> GetList()
         {
-            return _commentDal.GetAll();
+            return _commentDal.GetListAll();
         }
 
         public void Delete(Comment entity)

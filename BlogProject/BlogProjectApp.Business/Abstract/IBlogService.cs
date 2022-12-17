@@ -6,6 +6,6 @@ namespace BlogProjectApp.Business.Abstract
     public interface IBlogService : IGenericService<Blog>
     {
         List<Blog> GetBlogListWithCategory();
-        Blog GetBlogById(int id);
+        List<Blog> GetBlogById(int id);
     }
 }
