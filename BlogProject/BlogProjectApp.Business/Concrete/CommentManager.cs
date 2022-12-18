@@ -23,9 +23,9 @@ namespace BlogProjectApp.Business.Concrete
             return _commentDal.GetById(id);
         }
 
-        public List<Comment> GetList()
+        public List<Comment> GetListAllEx(int id)
         {
-            return _commentDal.GetListAll();
+            return _commentDal.GetListAll(x => x.Id == id);
         }
 
         public void Delete(Comment entity)
@@ -37,5 +37,10 @@ namespace BlogProjectApp.Business.Concrete
         {
             _commentDal.Update(entity);
         }
-    }
+
+		public List<Comment> GetList()
+		{
+			return _commentDal.GetListAll();
+		}
+	}
 }
