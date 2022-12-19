@@ -24,8 +24,10 @@ namespace BlogProjectApp.Business.Concrete
         }
 
         public List<Comment> GetListAllEx(int id)
-        {
-            return _commentDal.GetListAll(x => x.Id == id);
+        { 
+                
+            var values =  _commentDal.GetListAll(x => x.BlogId == id);
+            return values;
         }
 
         public void Delete(Comment entity)

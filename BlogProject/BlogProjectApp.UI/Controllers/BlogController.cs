@@ -21,6 +21,7 @@ namespace BlogProjectApp.UI.Controllers
 
         public IActionResult BlogDetail(int id)
         {
+            ViewBag.id = id;
             var list = _blogService.GetBlogById(id);
             return View(list);
         }
