@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "NZbOZKVxihWhPVmO0bbEaXKU8fObX1WQ2rM5ymDbDhtPl8FxK2shr3FIhERjf9pizgszfVcDwMkWyA5q3IaeOA==",
+  "dgSpecHash": "UuL8n8C344hsBMlc9QsYGHvJnwqK2Q02aB1CSbcrSWXM/u9wdmqAoWdWF27/AKQ+ZfgHJzvQxR8wlm1VmZTb1g==",
   "success": true,
   "projectFilePath": "D:\\Software\\GithubProject\\DynamicBlogProject-v2\\BlogProject\\BlogProjectApp.Business\\BlogProjectApp.Business.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\firatalcin\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
+    "C:\\Users\\firatalcin\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.3\\fluentvalidation.aspnetcore.10.3.3.nupkg.sha512",
+    "C:\\Users\\firatalcin\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.3\\fluentvalidation.dependencyinjectionextensions.10.3.3.nupkg.sha512",
     "C:\\Users\\firatalcin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\firatalcin\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\firatalcin\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",

@@ -1,5 +1,7 @@
 ﻿using BlogProjectApp.Business.Abstract;
+using BlogProjectApp.Business.ValidationRules;
 using BlogProjectApp.Entities.Concrete;
+using FluentValidation.Results;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BlogProjectApp.UI.Controllers
@@ -22,8 +24,24 @@ namespace BlogProjectApp.UI.Controllers
 		[HttpPost]
 		public IActionResult Index(Writer writer)
 		{
-			_writerService.Add(writer);
-			return RedirectToAction("Index");
+			WriterValidator vr = new WriterValidator();
+			ValidationResult result= vr.Validate(writer);
+			if (result.IsValid)
+			{
+                writer.Status = true;
+                writer.About = "Deneme Test";
+                _writerService.Add(writer);
+                return RedirectToAction("Index");
+            }
+			else
+			{
+				foreach (var item in result.Errors)
+				{
+					ModelState.AddModelError(item.PropertyName, item.ErrorMessage);
+				}
+			}
+			return View();
+			
 		}
 	}
 }

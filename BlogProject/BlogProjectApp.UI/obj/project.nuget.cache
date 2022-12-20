@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "GVdN3Xe5j1FzN5QRK76p0bjwM50/s/rV5jQ1HuqpjMYs52upP52nRh72VatzhnQQHS8GzhTPXpf6LnbIt0al8w==",
+  "dgSpecHash": "ynNgKKoTx2jVRSNcQ5qzAVs7wkXQhprTUbC+RJmkNE0OpktQzKq15WDISvtCDPLbzFOzrssgJyXYEieD7U2OXA==",
   "success": true,
   "projectFilePath": "D:\\Software\\GithubProject\\DynamicBlogProject-v2\\BlogProject\\BlogProjectApp.UI\\BlogProjectApp.UI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\firatalcin\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
+    "C:\\Users\\firatalcin\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.3\\fluentvalidation.aspnetcore.10.3.3.nupkg.sha512",
+    "C:\\Users\\firatalcin\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.3\\fluentvalidation.dependencyinjectionextensions.10.3.3.nupkg.sha512",
     "C:\\Users\\firatalcin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\firatalcin\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
     "C:\\Users\\firatalcin\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",

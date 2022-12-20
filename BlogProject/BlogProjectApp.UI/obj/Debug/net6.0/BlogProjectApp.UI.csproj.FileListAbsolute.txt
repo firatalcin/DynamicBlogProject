@@ -273,3 +273,7 @@ D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.UI\bi
 D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.UI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.UI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.UI\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.UI\bin\Debug\net6.0\FluentValidation.dll
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.UI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.UI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.UI\obj\Debug\net6.0\BlogProjectApp.UI.MvcApplicationPartsAssemblyInfo.cs
