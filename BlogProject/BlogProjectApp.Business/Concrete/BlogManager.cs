@@ -53,5 +53,10 @@ namespace BlogProjectApp.Business.Concrete
         {
             return _blogDal.GetListAll(x => x.Id == id);
         }
-    }
+
+		public List<Blog> GetBlogListByWriter(int id)
+		{
+            return _blogDal.GetListAll(x => x.WriterId == id);
+		}
+	}
 }

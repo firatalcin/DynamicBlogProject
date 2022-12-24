@@ -7,5 +7,7 @@ namespace BlogProjectApp.Business.Abstract
     {
         List<Blog> GetBlogListWithCategory();
         List<Blog> GetBlogById(int id);
+
+        List<Blog> GetBlogListByWriter(int id);
     }
 }

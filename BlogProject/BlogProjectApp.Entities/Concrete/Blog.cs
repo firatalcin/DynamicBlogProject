@@ -18,6 +18,8 @@ namespace BlogProjectApp.Entities.Concrete
         public bool Status { get; set; }
         public int CategoryId { get; set; }
         public virtual Category Category { get; set; }
+        public int WriterId { get; set; }
+        public virtual Writer Writer { get; set; }
         public ICollection<Comment> Comments { get; set; }
     }
 }

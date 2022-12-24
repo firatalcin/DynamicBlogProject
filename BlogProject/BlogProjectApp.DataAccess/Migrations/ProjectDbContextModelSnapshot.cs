@@ -91,9 +91,14 @@ namespace BlogProjectApp.DataAccess.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int>("WriterId")
+                        .HasColumnType("int");
+
                     b.HasKey("Id");
 
                     b.HasIndex("CategoryId");
+
+                    b.HasIndex("WriterId");
 
                     b.ToTable("Blogs");
                 });
@@ -237,7 +242,15 @@ namespace BlogProjectApp.DataAccess.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
+                    b.HasOne("BlogProjectApp.Entities.Concrete.Writer", "Writer")
+                        .WithMany("Blogs")
+                        .HasForeignKey("WriterId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
                     b.Navigation("Category");
+
+                    b.Navigation("Writer");
                 });
 
             modelBuilder.Entity("BlogProjectApp.Entities.Concrete.Comment", b =>
@@ -257,6 +270,11 @@ namespace BlogProjectApp.DataAccess.Migrations
                 });
 
             modelBuilder.Entity("BlogProjectApp.Entities.Concrete.Category", b =>
+                {
+                    b.Navigation("Blogs");
+                });
+
+            modelBuilder.Entity("BlogProjectApp.Entities.Concrete.Writer", b =>
                 {
                     b.Navigation("Blogs");
                 });
