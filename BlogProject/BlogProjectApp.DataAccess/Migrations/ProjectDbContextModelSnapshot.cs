@@ -198,6 +198,26 @@ namespace BlogProjectApp.DataAccess.Migrations
                     b.ToTable("Contacts");
                 });
 
+            modelBuilder.Entity("BlogProjectApp.Entities.Concrete.NewsLetter", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
+
+                    b.Property<string>("Mail")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("Status")
+                        .HasColumnType("bit");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("NewsLetters");
+                });
+
             modelBuilder.Entity("BlogProjectApp.Entities.Concrete.Writer", b =>
                 {
                     b.Property<int>("Id")

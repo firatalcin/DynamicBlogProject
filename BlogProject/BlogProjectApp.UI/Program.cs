@@ -12,6 +12,7 @@ builder.Services.AddScoped<ICategoryDal, EfCategoryDal>();
 builder.Services.AddScoped<ICommentDal, EfCommentDal>();
 builder.Services.AddScoped<IContactDal, EfContactDal>();
 builder.Services.AddScoped<IWriterDal, EfWriterDal>();
+builder.Services.AddScoped<INewsLetterDal, EfNewsLetterDal>();
 
 builder.Services.AddScoped<IAboutService, AboutManager>();
 builder.Services.AddScoped<IBlogService, BlogManager>();
@@ -19,6 +20,7 @@ builder.Services.AddScoped<ICategoryService, CategoryManager>();
 builder.Services.AddScoped<ICommentService, CommentManager>();
 builder.Services.AddScoped<IContactService, ContactManager>();
 builder.Services.AddScoped<IWriterService, WriterManager>();
+builder.Services.AddScoped<INewsLetterService, NewsLetterManager>();
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
