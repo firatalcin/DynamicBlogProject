@@ -16,6 +16,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Software\GithubProject\DynamicBlogProject-v2\BlogProject\BlogProjectApp.UI
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Software/GithubProject/DynamicBlogProject-v2/BlogProject/BlogProjectApp.UI/Views/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Software/GithubProject/DynamicBlogProject-v2/BlogProject/BlogProjectApp.UI/Views/About/SocialMediaAboutPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcU29jaWFsTWVkaWFBYm91dFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Software/GithubProject/DynamicBlogProject-v2/BlogProject/BlogProjectApp.UI/Views/Blog/BlogDetail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xCbG9nRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
