@@ -10,13 +10,14 @@ namespace BlogProjectApp.UI.Controllers
 
 		public IActionResult Index()
 		{
+			var values = _aboutService.GetList();
 			return View();
 		}
 
 		public PartialViewResult SocialMediaAboutPartial()
 		{
-			var values = _aboutService.GetList();
-			return PartialView(values);
+			
+			return PartialView();
 		}
 	}
 }
